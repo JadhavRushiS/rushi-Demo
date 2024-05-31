@@ -1,4 +1,5 @@
 # rushi-Demo
-This is my first repository 
+
+This is my first repository
 <br>
-Author - <h4> Rushi Jadhav </h4>
+Author - <h4> Rushikesh Jadhav </h4>
